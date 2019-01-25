@@ -1,4 +1,4 @@
-package com.charlie.petclinic2.model;
+package com.charlie.petlinic2.model;
 
 public class Person {
     private String firstName;
